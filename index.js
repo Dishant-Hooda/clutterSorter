@@ -2,7 +2,7 @@ import fs from "fs/promises"
 import fsn from "fs"
 import path from "path"
 
-const basepath = "/Users/dishanthooda/CODING /filesSorter/"
+const basepath = "url here" //add your url in between the semicolons ""
 let files = await fs.readdir(basepath)
 
 for (const item of files) {

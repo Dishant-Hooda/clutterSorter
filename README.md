@@ -11,9 +11,9 @@ A smart and efficient file sorter for your PC or Mac that declutters your system
 
 ## 🚀 Installation
 ### Windows
-1. Download the latest release from [GitHub Releases](https://github.com/stork/clutter-sorter/)
+1. Download the latest release from [GitHub](https://github.com/Dishant-Hooda/clutterSorter/)
 2. Extract the ZIP file
-3. Open the files in code Code runner ide like VS code or anything which works for you
+3. Open the files in any Code runner IDE like VS Code or anything that works for you
 
 ### Mac
 1. Clone the repository:
@@ -25,10 +25,10 @@ A smart and efficient file sorter for your PC or Mac that declutters your system
    cd clutter-sorter
    ```
 3. Run the file:
-   main.js (but don't forget to add your patht to the basedirectory variable)
+   main.js (but don't forget to add your path to the basedirectory variable)
 
 ## 📌 Usage
-Simply run the program, and it will:
+Run the program, and it will:
 1. Create folders for each file extension (e.g., `JPG`, `PNG`, `PDF`, `MP4`, etc.)
 2. Move files into respective folders based on their extensions
 
